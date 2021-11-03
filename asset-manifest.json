@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/quoteApp/static/css/main.03cd6a58.chunk.css",
-    "main.js": "/quoteApp/static/js/main.6a7fb2c6.chunk.js",
-    "main.js.map": "/quoteApp/static/js/main.6a7fb2c6.chunk.js.map",
+    "main.js": "/quoteApp/static/js/main.f9963944.chunk.js",
+    "main.js.map": "/quoteApp/static/js/main.f9963944.chunk.js.map",
     "runtime-main.js": "/quoteApp/static/js/runtime-main.06fc2278.js",
     "runtime-main.js.map": "/quoteApp/static/js/runtime-main.06fc2278.js.map",
-    "static/js/2.be55bb59.chunk.js": "/quoteApp/static/js/2.be55bb59.chunk.js",
-    "static/js/2.be55bb59.chunk.js.map": "/quoteApp/static/js/2.be55bb59.chunk.js.map",
+    "static/js/2.a86f7b33.chunk.js": "/quoteApp/static/js/2.a86f7b33.chunk.js",
+    "static/js/2.a86f7b33.chunk.js.map": "/quoteApp/static/js/2.a86f7b33.chunk.js.map",
     "index.html": "/quoteApp/index.html",
     "static/css/main.03cd6a58.chunk.css.map": "/quoteApp/static/css/main.03cd6a58.chunk.css.map",
-    "static/js/2.be55bb59.chunk.js.LICENSE.txt": "/quoteApp/static/js/2.be55bb59.chunk.js.LICENSE.txt"
+    "static/js/2.a86f7b33.chunk.js.LICENSE.txt": "/quoteApp/static/js/2.a86f7b33.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.06fc2278.js",
-    "static/js/2.be55bb59.chunk.js",
+    "static/js/2.a86f7b33.chunk.js",
     "static/css/main.03cd6a58.chunk.css",
-    "static/js/main.6a7fb2c6.chunk.js"
+    "static/js/main.f9963944.chunk.js"
   ]
 }
