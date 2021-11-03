@@ -1,6 +1,5 @@
-import { useCallback, useState } from 'react';
+import { useCallback, useState,useEffect } from 'react';
 import { useParams } from 'react-router';
-import { useEffect } from 'react/cjs/react.development';
 import useHttp from '../hooks/use-http';
 import { getAllComments } from '../lib/api';
 import LoadingSpinner from '../UI/LoadingSpinner';
